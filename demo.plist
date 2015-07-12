@@ -13,14 +13,6 @@
                    <key>url</key>
                    <string>http://121.199.24.98/demo/mm_1.0.ipa</string>
                </dict>
-               <dict>
-                   <key>kind</key>
-                   <string>display-image</string>
-                   <key>needs-shine</key>
-                   <true/>
-                   <key>url</key>
-                   <string>http://www.yfrs.gov.cn/download/yfrs_logo_48.png</string>
-               </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
