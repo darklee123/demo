@@ -18,13 +18,13 @@
                <key>bundle-identifier</key>
                <string>com.gddlkj.mm</string>
                <key>bundle-version</key>
-               <string>1.0</string>
+               <string>1.01</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
                <string>商务助手</string>
                <key>title</key>
-               <string>商务助手1.0</string>
+               <string>商务助手1.01</string>
            </dict>
        </dict>
    </array>
