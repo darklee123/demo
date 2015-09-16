@@ -11,20 +11,20 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://121.199.24.98/demo/mm_1.02.ipa</string>
+                   <string>http://121.199.24.98/demo/mm_1.03.ipa</string>
                </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
                <string>com.gddlkj.mm</string>
                <key>bundle-version</key>
-               <string>1.02</string>
+               <string>1.03</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
                <string>商务助手</string>
                <key>title</key>
-               <string>商务助手1.02</string>
+               <string>商务助手1.03</string>
            </dict>
        </dict>
    </array>
